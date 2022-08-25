@@ -1,0 +1,45 @@
+Enter system
+Start test
+Current url : https://www.citilink.ru/
+Click select city
+Click city Moscow
+Click button Catalog
+Click button Smartphones
+Good value word : Смартфоны и гаджеты
+Current url : https://www.citilink.ru/catalog/smartfony-i-gadzhety/
+Click button: Показать еще
+Click Smartphones Android
+Good value word : Смартфоны на Android
+Click checkbox: Забрать через 5 минут
+Input Filter price min
+Input Filter price max
+Click radiobutton : 10% и больше
+Click : 256 Гб
+По цене
+Click select product
+Click button : В корзину
+Current url : https://www.citilink.ru/product/smartfon-xiaomi-poco-f3-256gb-8gb-chernyi-3g-4g-6-67-and11-802-11-a-b-1514343/
+Good value word : Смартфон Xiaomi Poco F3 8/256Gb, черный
+Good value word : 34 990
+Click button : Перейти в корзину
+Screenshot: screenshot 2022.08.25.13.11.27.png
+Current url : https://www.citilink.ru/order/
+Good value word : Смартфон Xiaomi Poco F3 8/256Gb, черный
+Good value word : 34 990
+Good value word : 34 990
+Click button : Перейти к оформлению
+Screenshot: screenshot 2022.08.25.13.11.28.png
+Current url : https://www.citilink.ru/order/
+Good value word : Смартфон Xiaomi Poco F3 8/256Gb, черный
+Good value word : 34 990
+Input First Name
+Input Last Name
+Input Phone
+Input Additional phone
+Click button : Банковской картой онлайн
+Click checkbox : Данные получателя указаны верно
+Input Email
+Good url : https://www.citilink.ru/order/checkout/
+Screenshot: screenshot 2022.08.25.13.11.39.png
+Finish test
+Exit system
